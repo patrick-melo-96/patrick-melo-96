@@ -4,7 +4,7 @@ I am Patrick Melo, a software engineer focused on cross-plataform apps build wit
 
 Check my abilities bellow
 
-[![My Skills](https://skillicons.dev/iconsc,cs,py,postgres,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,py,postgres,aws)](https://skillicons.dev)
 
 <!--
 **patrick-melo-96/patrick-melo-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
