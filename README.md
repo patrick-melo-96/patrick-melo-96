@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hey companion👋
+
+I am Patrick Melo, a software engineer focused on cross-plataform apps build with support to AI and development of games.
+
+Check my abilities bellow
+
+[![My Skills](https://skillicons.dev/icons?i=C,C#,VBA,python,PGSQL,AWS)](https://skillicons.dev)
 
 <!--
 **patrick-melo-96/patrick-melo-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
